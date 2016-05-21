@@ -31,7 +31,20 @@ permalink: /about/
   </div><br><br>
   i'm very Social<br>
   ....contact me&nbsp; &nbsp;
-  <a href="http://github.com/manishmarahatta"><i class="fa fa-github"></i></a>&nbsp; &nbsp; &nbsp;<a href="http://facebook.com/manish.biohazard"><i class="fa fa-facebook"></i></a>&nbsp; &nbsp; &nbsp;<a href="http://twitter.com/MMarahatta"><i class="fa fa-twitter"></i></a>&nbsp; &nbsp; &nbsp;<a href="http://instagram.com/marahattamanish"><i class="fa fa-instagram"></i></a><br>
+  <a href="http://github.com/manishmarahatta"><i class="fa fa-github"></i></a>&nbsp; &nbsp; &nbsp;
+  <a href="http://facebook.com/manish.biohazard"><i class="fa fa-facebook"></i></a>&nbsp; &nbsp; &nbsp;
+  <a href="http://twitter.com/MMarahatta"><i class="fa fa-twitter"></i></a>&nbsp; &nbsp; &nbsp;
+  <a href="http://instagram.com/marahattamanish"><i class="fa fa-instagram"></i></a>&nbsp; &nbsp; &nbsp;
+  <a href="https://plus.google.com/+ManishMarahatta"><i class="fa fa-google-plus"></i></a>&nbsp; &nbsp; &nbsp;
+  <a href="https://np.linkedin.com/in/manish-marahatta-137591b5"><i class="fa fa-linkedin"></i></a>&nbsp; &nbsp; &nbsp;
+  <a href="https://www.pinterest.com/manishmarahatta"><i class="fa fa-pinterest"></i></a>&nbsp; &nbsp; &nbsp;
+  <a href="https://www.tumblr.com/blog/mmarahatta"><i class="fa fa-tumblr"></i></a>&nbsp; &nbsp; &nbsp;
+  <a href="https://medium.com/@manishmarahatta"><i class="fa fa-medium"></i></a>&nbsp; &nbsp; &nbsp;
+  <a href="#"><i class="fa fa-key"></i></a>&nbsp; &nbsp; &nbsp;
+  <a href="https://www.coinbase.com/manishmarahatta"><i class="fa fa-bitcoin"></i></a>&nbsp; &nbsp; &nbsp;<br>
+
+
+
   ....or send me a mail!!&nbsp; &nbsp; &nbsp;<a href="mailto:me@manishmarahatta.com.np"><i class="fa fa-envelope">email</i></a>&nbsp; &nbsp; &nbsp;
   <a href="mailto:manishmarahatta1996@gmail.com"><i class="fa fa-envelope">gmail</i></a>&nbsp; &nbsp; &nbsp;
   <a href="mailto:marahattamanish1996@live.com"><i class="fa fa-envelope">live</i></a>&nbsp; &nbsp; &nbsp;<br><br>
