@@ -2,7 +2,7 @@
 layout: post
 title:  "Finding Your True Self Through Writing"
 date:   2016-03-15 19:45:31 +0545
-categories: ["moviesstuff", "writing"]
+categories: ["moviesstuff", "Writing"]
 author: "Manish Marahatta"
 ---
 
