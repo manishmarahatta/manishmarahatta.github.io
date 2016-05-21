@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "UX Tips That Must Be Remembered"
+date:   2016-03-24 19:45:31 +0545
+categories: ["techy_articles", "UX"]
+author: "Manish Marahatta"
+---
+
+Website owners and web designers should remember that the wow effect that your beautiful website creates at first, won't last long without superb UX. An excellent impression will be replaced by irritation if your site doesn't possess a proper navigation, for example. And, as far as we concerned, the user will leave as soon as he realises you don't care about him. In this article, we list the most important points that website owners and designers should pay attention to, in order to guarantee the high attendance of their web pages and a large number of app downloads.
+
+#1 Provide Responsiveness
+
+It's significant to provide a satisfying UX across all devices that can handle your website (monitors, in particular) and platforms that support an application. Regulars, the ones who visit the site with a certain constancy, will surely run a website on mobile and desktop-based devices. If you don't have an application then make your website responsive and mobile-friendly so no matter on what gadget the user views the site, it will adapt to the screen and ensure similar UX across all platforms. Users like to be taken care of.
+
+#2 Create Proper Navigation
+
+An essential part that helps to ensure astonishing UX is to provide users with relevant content they might be interested in. For that purposes, design a convenient and simple navigation bar that can grant instant access to the most important information in as less amount of clicks as possible. In addition, the navigation should be designed to be plain and intuitive so users will be able to orientate themselves at the website without anyone's help.
+
+#3 Prepare The Main Focus
+
+When the user visits the site at the first time, it's most likely that he or she just scans the pages without really reading the content. That's why it's essential to insert some catchy pieces of content. It can be a title, a video, an article or whatever you can imagine because such hooks facilitate users to like the site and go back for more pleasure. Besides, you have to provide them with the main focus - it's often a homepage, where they can find essential information and locate the page they would like to check out. Don't forget to arrange everything in a logical order and provide a proper font size.
+
+#4 All Links And Buttons Should Work
+
+It's extremely bad for any website or application to represent the content, not in the way it should be performed. For example, you should make buttons or banners look clickable (and that's more important, to be so!) because that mirrors their standard behaviour. There shouldn't be any broken links, otherwise, users will feel disappointment if they come across 404 page. Even if they'll occasionally see such page, make sure it will not end a communication with a user. Place some links to the pages that can be similar to the one the user didn't manage to find or the ones that can be interesting for him. All visuals should clearly indicate the actions that can be performed with them.
+
+#5 Provide Control
+
+Such novelties like hijacked scroll bar and auto-play video became extremely popular among website creators and owners these days. However, these features let the control over UX slide from user's hands. It's extremely important for the website visitor or a user of your app to be able to regulate everything that's going on the site or inside an application, so make both of them controllable. Besides, make sure that all components of the website or an app function only when needed.
+
+#6 Start Developing An Application
+
+If you still have not thought about it, now it is the time. If the company has an application, it is positioning itself as a serious-minded business corporation. However, don't forget that an app shouldn't look like a small copy of the website that has been adapted for the little screens. Show some respect for the users and let them have an unforgettable mobile UX.
+
