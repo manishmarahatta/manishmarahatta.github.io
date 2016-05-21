@@ -34,6 +34,22 @@ permalink: /about/
   <a href="http://github.com/manishmarahatta"><i class="fa fa-github"></i></a>&nbsp; &nbsp; &nbsp;<a href="http://facebook.com/manish.biohazard"><i class="fa fa-facebook"></i></a>&nbsp; &nbsp; &nbsp;<a href="http://twitter.com/MMarahatta"><i class="fa fa-twitter"></i></a>&nbsp; &nbsp; &nbsp;<a href="http://instagram.com/marahattamanish"><i class="fa fa-instagram"></i></a><br>
   ....or send me a mail!!&nbsp; &nbsp; &nbsp;<a href="mailto:me@manishmarahatta.com.np"><i class="fa fa-envelope">email</i></a>&nbsp; &nbsp; &nbsp;
   <a href="mailto:manishmarahatta1996@gmail.com"><i class="fa fa-envelope">gmail</i></a>&nbsp; &nbsp; &nbsp;
-  <a href="mailto:marahattamanish1996@live.com"><i class="fa fa-envelope">live</i></a>&nbsp; &nbsp; &nbsp;
+  <a href="mailto:marahattamanish1996@live.com"><i class="fa fa-envelope">live</i></a>&nbsp; &nbsp; &nbsp;<br><br>
+<h3>About the site</h3>
+
+In this site you’ll find a recollection of thoughts and opinions based on my experience regarding subjects and issues that are of interest to is all in the web industry, subjects such as design, development, or the blogosphere among other web culture and movies(ohh!! i love movies)<br><br>
+
+<h3>In case you were wondering, this site is:</h3>
+
+    -Designed and developed on Linux<br>
+    -Developed with Emacs (awww...)<br>
+    -Built on Jekyll, the open source static site generator<br>
+    -Hosted on GitHub Pages<br><br>
+
+If you enjoyed the content found here, you might like to subscribe to my <i class="fa fa-feed"></i>&nbsp;<a href="/feed.xml">feed</a>. Also feel free to send me any feedback, comments, or suggestions about the site.<br><br>
+
+<h3>Licensing</h3>
+
+Except as otherwise noted, the content of this site is licensed under the<a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International license</a>, and code samples are licensed under the <a href="/LICENSE.txt">MIT license.</a>
 </p>
 </div>
