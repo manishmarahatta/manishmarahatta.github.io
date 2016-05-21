@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "The Scientific Study of Story"
-date:   2016-09-12 19:45:31 +0545
-categories: ["moviesstuff", "writting"]
+title:  "Scientific Study of Story"
+date:   2016-03-02 19:42:31 +0545
+categories: ["movies_stuff", "Drama"]
 author: "Manish Marahatta"
 ---
+
+
 
 A question I'm often asked is "How can you possibly take a beautiful creative expression like the art of writing and quantify it into tiny little boxes and mathematical equations?"
 

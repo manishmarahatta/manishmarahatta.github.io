@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Movies
-permalink: /moviesstuff/
-category: "moviesstuff"
+permalink: /movies_stuff/
+category: "movies_stuff"
 tagline: "it's all about movies."
 ---

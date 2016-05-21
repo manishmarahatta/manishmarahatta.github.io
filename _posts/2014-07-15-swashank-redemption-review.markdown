@@ -2,7 +2,7 @@
 layout: post
 title:  "Swashank Redemption"
 date:   2014-07-15 19:45:31 +0545
-categories: ["moviesstuff", "Drama"]
+categories: ["movies_stuff", "Drama"]
 author: "Manish Marahatta"
 ---
 
