@@ -10,7 +10,7 @@ title: Manish Marahatta
 email: me@manishmarahatta.com.np
 description: Programmer, Blogger
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://manishmarahatta.com.np" # the base hostname & protocol for your site
+url: "http://manishmarahatta.github.io" # the base hostname & protocol for your site
 twitter_username: MMarahatta
 github_username:  manishmarahatta
 
