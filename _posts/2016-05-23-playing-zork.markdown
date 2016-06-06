@@ -20,5 +20,6 @@ it works!! yaii<br>
 ZORK is a game of adventure, danger, and low cunning. In it you will explore some of the most amazing territory ever seen by mortals. No computer should be without one!"<br>
 -><code class="highlighter-rouge">drop the leaflet</code><br>
 Dropped.<br>
-
+....don't know what to do now SHIT!!...stay tuned someday i'll get it through<br>
+<a href="/feed.xml">I will complete this shit stay updated <i class="fa fa-feed"></i>&nbsp;</a>
 
