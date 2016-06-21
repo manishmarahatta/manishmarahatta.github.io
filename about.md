@@ -58,7 +58,8 @@ permalink: /about/
   <a href="mailto:manishmarahatta1996@gmail.com"><i class="fa fa-envelope">gmail</i></a>&nbsp; &nbsp; &nbsp;
   <a href="mailto:marahattamanish1996@live.com"><i class="fa fa-envelope">live</i></a>&nbsp; &nbsp; &nbsp;<br>
   ....give a ring &nbsp;<i class="fa fa-mobile-phone"></i>&nbsp;<a href="tel:+9779840067049">+9779840067049</a><br>
-  ....send me an encrypted message &nbsp;<a href="/pgp_key.txt"><i class="fa fa-key"></i></a><br><br>
+  ....send me an encrypted message &nbsp;<a href="/pgp_key.txt"><i class="fa fa-key"></i></a><br>
+  ....connect with me in the IRC #r68bux channel in freenode network &nbsp;<a><i class="fa fa-comment-o"></i></a><br><br>
 <h3>About the site</h3>
 
 In this site you’ll find a recollection of thoughts and opinions based on my experience regarding subjects and issues that are of interest to is all in the web industry, subjects such as design, development, or the blogosphere among other web culture and movies(ohh!! i love movies)<br><br>
