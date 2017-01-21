@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Shuffle"
+date:   2017-01-21 19:45:31 +0545
+categories: ["techy_articles", "shuffle"]
+author: "Manish Marahatta"
+---
+
+Cool website by<a href="https://github.com/studenton">@Studenton</a> Click Shuffle[shuffle]({{ site.url }}/assets/shuffle/index.html)
