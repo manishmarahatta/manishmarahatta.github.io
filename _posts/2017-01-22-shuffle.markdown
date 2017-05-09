@@ -9,6 +9,6 @@ author: "Manish Marahatta"
 Shuffle (generates random music from youtube) &nbsp;[shuffle]({{ 
 site.url 
 }}https://github.com/assets/shuffle/index.html) --credit <a 
-href="github.com/studenton"studenton</a>
+href="https://github.com/amitness">amitness</a>
 
 Cheers!!
